@@ -1,5 +1,7 @@
 # FE-Interview-Question
 
+前端常见面试题以及面试经历过的题目记录总结。
+
 ## 1、React 篇
 
 1. [Why use hook?](./react/1.Why-use-hook.md)（为什么要使用 hook?）;
